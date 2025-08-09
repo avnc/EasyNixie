@@ -1,9 +1,8 @@
 """
-CircuitPython driver for EasyNixie IN-12A Nixie tube modules
+CircuitPython driver for EasyNixie
 Compatible with ESP32-S3, Raspberry Pi Pico W, and other CircuitPython boards
-
-Author: CircuitPython Implementation
-Based on: EasyNixie Arduino library concepts
+Based on: EasyNixie Arduino library at github.com/allexoK/EasyNixie
+EasyNixie board can be had here: https://www.tindie.com/products/allexok/easynixie/
 """
 
 import board
